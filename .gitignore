@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+/.pnp
+.pnp.js
+
+# Production & Builds
+dist/
+build/
+coverage/
+
+# Environment and Secrets
+.env
+.env*.local
+.env.*
+!.env.example
+*.pem
+*.key
+
+# IDEs & System
+.DS_Store
+*.log
+.vscode/
+.idea/
+.antigravity/
+.system_generated/

@@ -1,0 +1,1 @@
+{"name":"WalkSafe AI","description":"Personal safety companion for solo travelers that monitors journey signals, calculates real-time risk, generates AI safety explanations, and triggers automated check-ins or emergency alerts.","requestFramePermissions":["geolocation"],"majorCapabilities":["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]}
